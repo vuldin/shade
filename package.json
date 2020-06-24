@@ -1,0 +1,17 @@
+{
+  "name": "@vuldin/shade",
+  "private": true,
+  "scripts": {
+    "start": "parcel serve index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "vuldin <me@vuld.in>",
+  "devDependencies": {
+    "parcel": "next"
+  },
+  "dependencies": {
+    "3box": "^1.20.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
